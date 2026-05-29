@@ -18,7 +18,7 @@ const TESTIMONIALS = [
     name: "Amina Yusuf",
     role: "Growth Marketer",
     image:
-      "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1642929456654-f4540e3e2a85?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 
   {
@@ -45,16 +45,16 @@ const TESTIMONIALS = [
     name: "Tunde Adeyemi",
     role: "Creative Director",
     image:
-      "https://images.unsplash.com/photo-1504593811423-6dd665756598?q=80&w=400&auto=format&fit=crop",
+      "https://plus.unsplash.com/premium_photo-1663040154843-8663ecb1f007?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 
   {
     quote:
       "Been using it quietly for about 4 months now. No issues, no weird bugs, just works. That’s honestly the best kind of software.",
     name: "Nia Okafor",
-    role: "Startup Founder",
+    role: "Devops Engineer",
     image:
-      "https://images.unsplash.com/photo-1546961329-78bef0414d7c?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1653565685092-a109a59bbcd2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
@@ -72,7 +72,7 @@ export default function Testimonials() {
   return (
     <section
       style={{
-        padding: "120px 24px",
+        padding: "100px 24px",
         borderTop: "1px solid rgba(10,10,10,.06)",
         overflow: "hidden",
         position: "relative",
@@ -118,7 +118,7 @@ export default function Testimonials() {
           </h2>
         </div>
 
-       
+
         <div
           style={{
             position: "relative",

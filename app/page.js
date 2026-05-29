@@ -336,7 +336,7 @@ export default function LandingPage() {
 
           {/* Desktop nav */}
           {!isMobile && (
-            <div style={{ display: "flex",  alignItems: "center", gap: 4 }}>
+            <div style={{ display: "flex", alignItems: "center", gap: 4 }}>
               <a href="#features" className="nav-link">Features</a>
               <a href="#how-it-works" className="nav-link">How it works</a>
               <a href="#" className="nav-link">Documentation</a>
